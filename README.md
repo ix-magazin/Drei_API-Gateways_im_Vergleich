@@ -1,5 +1,5 @@
 # Drei_API-Gateways_im_Vergleich
-Code zum [Review](https://www.heise.de/select/ix/2025/5/2435215301402814629) von Markus Stubbig, erschienen in [iX 05/2024](https://www.heise.de/select/ix/2025/5) und auf [heise online](https://www.heise.de/plus).
+Code zum [Review](https://www.heise.de/select/ix/2025/5/2435215301402814629) von Markus Stubbig, erschienen in [iX 05/2024](https://www.heise.de/select/ix/2025/5) und auf [heise online](https://www.heise.de/tests/Drei-API-Gateways-im-Vergleich-10301399.html).
 
 # iX-tract
 - Ein API-Gateway ist ein Webserver im Reverse-Proxy-Modus mit zusätzlichen Funktionen.
